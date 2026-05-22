@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">
   <span style="color:#58A6FF;">Redwanul Islam Rimon</span>
 </h1>
@@ -77,4 +77,3 @@
 
 ![](https://komarev.com/ghpvc/?username=RI-Rimon&style=for-the-badge&color=0e75b6)
 
-```
