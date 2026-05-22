@@ -5,13 +5,13 @@
 
 <h3 align="center">
   <span style="color:#8B949E;">
-    Python Backend Developer • Cybersecurity Enthusiast
+    Software Engineering Student • Python Backend Developer • Cybersecurity Enthusiast
   </span>
 </h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - Building backend systems and security-focused projects<br>
 - Interested in cybersecurity, AI, and scalable backend architecture<br>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - Security System Development   
 - Authentication & Verification Systems  
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 ![](https://github-readme-stats.shion.dev/api?username=RI-Rimon&theme=github_dark&hide_border=true&include_all_commits=true)
 
